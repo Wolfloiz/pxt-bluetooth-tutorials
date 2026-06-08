@@ -10,7 +10,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "fm-7-year-4-bi-futebol.md"
     ],
     "targetVersions": {
         "branch": "stable8.0",
