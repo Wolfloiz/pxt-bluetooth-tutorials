@@ -775,5 +775,7 @@ basic.showIcon(IconNames.Square)
 
 
 ```package
-Smart=github:FuzzyMakers/pxt-smartMakers
+smartMakers=github:FuzzyMakers/pxt-smartMakers
+bluetooth
+
 ```

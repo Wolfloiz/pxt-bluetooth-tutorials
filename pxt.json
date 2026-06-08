@@ -1,11 +1,12 @@
 {
-    "name": "Futebol - LS",
+    "name": "pxt-bluetooth-tutorials",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
         "microphone": "*",
         "bluetooth": "*",
-        "Smart Makers": "github:FuzzyMakers/pxt-smartMakers#d6a63a62d93fed9d52d832f8e69ab2280eebd9a7"
+        "Smart Makers": "github:FuzzyMakers/pxt-smartMakers"
     },
     "files": [
         "main.blocks",
