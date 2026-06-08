@@ -3,7 +3,10 @@
     "version": "0.0.1",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "bluetooth": "*",
+        "microphone": "*",
+        "Smart Makers":"github:FuzzyMakers/pxt-smartMakers"
     },
     "files": [
         "main.blocks",

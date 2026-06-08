@@ -772,3 +772,9 @@ velocidade = 600
 basic.showIcon(IconNames.Square)
 ```
 
+
+
+```package
+smart=github:FuzzyMakers/pxt-smartMakers
+
+```
