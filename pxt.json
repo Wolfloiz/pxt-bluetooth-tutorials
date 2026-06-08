@@ -6,7 +6,7 @@
         "core": "*",
         "bluetooth": "*",
         "microphone": "*",
-        "Smart Makers":"github:FuzzyMakers/pxt-smartMakers"
+        "Smart Makers": "github:FuzzyMakers/pxt-smartMakers"
     },
     "files": [
         "main.blocks",
