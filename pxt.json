@@ -1,11 +1,9 @@
 {
     "name": "pxt-bluetooth-tutorials",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "",
     "dependencies": {
-        "core": "*",
         "bluetooth": "*",
-        "microphone": "*",
         "Smart Makers": "github:FuzzyMakers/pxt-smartMakers"
     },
     "files": [
