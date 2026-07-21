@@ -777,5 +777,4 @@ basic.showIcon(IconNames.Square)
 ```package
 radio=remove
 bluetooth
-smart=github:FuzzyMakers/pxt-smartMakers
 ```
